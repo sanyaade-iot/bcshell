@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>13407D38-70E9-439F-AD36-286034C9AFC6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>bcshell-ios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6414F08-1BAC-4F26-A6E3-BDE8D9ACE112</key>
+		<string>https://github.com/bcsphere/bcshell.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>bcshell-ios/platforms/ios/bcshell-ios.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6414F08-1BAC-4F26-A6E3-BDE8D9ACE112</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bcsphere/bcshell.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6414F08-1BAC-4F26-A6E3-BDE8D9ACE112</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6414F08-1BAC-4F26-A6E3-BDE8D9ACE112</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bcshell</string>
+		</dict>
+	</array>
+</dict>
+</plist>
